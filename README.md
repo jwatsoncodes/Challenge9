@@ -1,6 +1,11 @@
-# Challenge9
-PLEASE VIEW VIDEO DEMO AS RAW (will not load in github browser due to size)
-Image from generated README sample file included
-index.js has created code
+CHALLENGE 9
+
+link to video demonstration: https://drive.google.com/file/d/1-GYEGeDNSXfOlok4JLXKHz94mw598bJB/view?usp=drive_link
+
+index.js contains all code
+
+pack.json included
+
+
 
 
